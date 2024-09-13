@@ -1,0 +1,1 @@
+add_llvm_library(AtomicRMWPass MODULE AtomicRMWPass.cpp CmpXchgVisitor.cpp)
